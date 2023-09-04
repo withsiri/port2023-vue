@@ -29,7 +29,7 @@ import { footerText } from "../constants";
             <!-- //footer_info -->
             <div class="footer_bottom">
                 &copy;2023 withsiri91<br />
-                이 사이트는 비트를 이용하여 제작하였습니다.
+                이 사이트는 뷰를 이용하여 제작하였습니다.
             </div>
             <!-- //footer_bottom -->
         </div>
