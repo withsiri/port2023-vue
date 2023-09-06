@@ -4,10 +4,10 @@
 1. [vite](https://github.com/withsiri/port2023-vite)
 2. [react.js](https://github.com/withsiri/port2023-react)
 3. [vue.js](https://github.com/withsiri/port2023-vue)
-4. [next.js]
+4. [next.js]()
 
 ## 완성작 보기 
-미리보기 : 
+미리보기 : [port2023-vue-withsiri.netlify.app](https://port2023-vue-withsiri.netlify.app)
 
 ## 사용 스택
 - vue(https://ko.vuejs.org/) 를 사용하여 사이트를 번들링하고 관리한다.
